@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = matthewg543@gmail.com
+	name = Matthew Gibb
